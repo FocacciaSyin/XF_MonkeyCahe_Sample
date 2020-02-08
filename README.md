@@ -17,8 +17,7 @@
 #### 2.建立一個頁面實作MonkeyCache這個功能
 
 ### 參考文章 : 
-### ngfor : https://xamgirl.com/improving-the-ux-of-a-xamarin-forms-application-by-caching-data/
-
+### JSON Server ➕ XamarinForms : https://devlinduldulao.pro/how-to-quickly-create-a-rest-api-web-service-for-xamarin-prototyping/
 
 # [📃]代辦事項
 - [ ]  
