@@ -3,3 +3,12 @@
 ################################################################################
 
 /MonkeyCache_Sample/MonkeyCache_Sample/MonkeyCache_Sample/bin/Debug/netstandard2.0
+/MonkeyCache_Sample/MonkeyCache_Sample/MonkeyCache_Sample/obj
+/MonkeyCache_Sample/MonkeyCache_Sample/MonkeyCache_Sample.Android/obj
+/MonkeyCache_Sample/MonkeyCache_Sample/MonkeyCache_Sample.Android/bin/Debug
+/MonkeyCache_Sample/MonkeyCache_Sample/MonkeyCache_Sample.iOS/bin/iPhone/Debug
+/MonkeyCache_Sample/MonkeyCache_Sample/MonkeyCache_Sample.iOS/obj
+/MonkeyCache_Sample/MonkeyCache_Sample/MonkeyCache_Sample.UWP/bin/x86/Debug
+/MonkeyCache_Sample/MonkeyCache_Sample/MonkeyCache_Sample.UWP/obj
+/.vs
+/MonkeyCache_Sample/.vs/MonkeyCache_Sample/v16
